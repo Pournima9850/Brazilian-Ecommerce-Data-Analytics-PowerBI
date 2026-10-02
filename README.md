@@ -156,8 +156,7 @@ README.md
 ```
 ---
 ## Dashboard Preview
-Add your main dashboard screenshot below:
-![Dashboard Preview](Images/dashboard-overview.png)
+![Dashboard Preview](Brazilian_Ecommerce_Dashboard.pdf)
 ---
 ## Skills Demonstrated
 * Power BI
